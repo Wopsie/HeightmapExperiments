@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ProcTerrainGen.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{634BB8B7-3BF5-4FB5-BF63-1A537512DA6C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProcTerrainGen.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProcTerrainGenEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{82EE4262-7C5A-4E46-8A07-6DF66C020EB1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ProcTerrainGen">
+      <UniqueIdentifier>{7A1DB37F-BD81-4E38-AF13-E041AD4F55B8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProcTerrainGen\ProcTerrainGen.Build.cs">
+      <Filter>Source\ProcTerrainGen</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProcTerrainGen\ProcTerrainGen.cpp">
+      <Filter>Source\ProcTerrainGen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProcTerrainGen\ProcTerrainGen.h">
+      <Filter>Source\ProcTerrainGen</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProcTerrainGen\ProcTerrainGenGameModeBase.cpp">
+      <Filter>Source\ProcTerrainGen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProcTerrainGen\ProcTerrainGenGameModeBase.h">
+      <Filter>Source\ProcTerrainGen</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

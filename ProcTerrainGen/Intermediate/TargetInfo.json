@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ProcTerrainGen",
+			"Path": "D:\\Unreal\\TerrainGen\\HeightmapExperiments\\ProcTerrainGen\\Source\\ProcTerrainGen.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProcTerrainGenEditor",
+			"Path": "D:\\Unreal\\TerrainGen\\HeightmapExperiments\\ProcTerrainGen\\Source\\ProcTerrainGenEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

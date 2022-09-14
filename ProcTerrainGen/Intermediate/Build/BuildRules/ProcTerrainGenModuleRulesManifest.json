@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal\\TerrainGen\\HeightmapExperiments\\ProcTerrainGen\\Source\\ProcTerrainGen\\ProcTerrainGen.Build.cs",
+		"D:\\Unreal\\TerrainGen\\HeightmapExperiments\\ProcTerrainGen\\Source\\ProcTerrainGen.Target.cs",
+		"D:\\Unreal\\TerrainGen\\HeightmapExperiments\\ProcTerrainGen\\Source\\ProcTerrainGenEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

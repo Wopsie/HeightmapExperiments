@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ProcTerrainGen-3194.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal\TerrainGen\HeightmapExperiments\ProcTerrainGen\Intermediate\Build\Win64\ProcTerrainGenEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal\TerrainGen\HeightmapExperiments\ProcTerrainGen\Intermediate\Build\Win64\UE4Editor\Development\ProcTerrainGen\ProcTerrainGen.cpp.obj"
+"D:\Unreal\TerrainGen\HeightmapExperiments\ProcTerrainGen\Intermediate\Build\Win64\UE4Editor\Development\ProcTerrainGen\ProcTerrainGenGameModeBase.cpp.obj"
+"D:\Unreal\TerrainGen\HeightmapExperiments\ProcTerrainGen\Intermediate\Build\Win64\UE4Editor\Development\ProcTerrainGen\ProcTerrainGen.init.gen.cpp.obj"
+"D:\Unreal\TerrainGen\HeightmapExperiments\ProcTerrainGen\Intermediate\Build\Win64\UE4Editor\Development\ProcTerrainGen\ProcTerrainGenGameModeBase.gen.cpp.obj"
+"D:\Unreal\TerrainGen\HeightmapExperiments\ProcTerrainGen\Intermediate\Build\Win64\UE4Editor\Development\ProcTerrainGen\Default.rc2.res"
+/OUT:"D:\Unreal\TerrainGen\HeightmapExperiments\ProcTerrainGen\Intermediate\Build\Win64\UE4Editor\Development\ProcTerrainGen\UE4Editor-ProcTerrainGen-3194.lib"
